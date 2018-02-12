@@ -1,6 +1,7 @@
 ssh_exchange_identification: read: Connection reset by peer
 
 --解决上述问题
+test
 
 在～/.ssh/config加入以下配置
 
